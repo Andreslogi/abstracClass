@@ -34,3 +34,5 @@ public abstract class Animal {
     public abstract String deponer();
     public abstract String deponer(boolean tipo);
 }
+
+// ensayo repositorio github.
